@@ -3,8 +3,8 @@ create or replace procedure spInsert_novenyek(
 	p_viragzas in novenyek.viragzas%type,
 	p_kor in novenyek.kor%type,
 	p_fajta in novenyek.fajta%type,
-	p_szin in novenyek.szin%type,
-	p_bolt_nev in boltok.nev%type,
+	p_ar in novenyek.ar%type,
+	p_uzletek_nev in uzletek.nev%type,
 
 	p_out_rowcnt out int
 
@@ -18,9 +18,9 @@ begin
 
 	if v_check_Id_noveny = 1 then
 		insert into novenyek
-			(Id_noveny, viragzas , kor , fajta ,szin ,boltok.nev)
+			(Id_noveny, viragzas , kor , fajta ,ar , uzletek.nev)
 		values
-			(p_Id_noveny , p_viragzas, p_kor ,p_fajta ,p_szin ,p_bolt_nev);
+			(p_Id_noveny , p_viragzas, p_kor ,p_fajta ,p_ar,p_uzletek_nev);
 		p_out_rowcnt := SQL%rowcount;
 		commit;
 	end if;

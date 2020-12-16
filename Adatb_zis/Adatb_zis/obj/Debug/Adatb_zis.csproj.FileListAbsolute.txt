@@ -1,0 +1,12 @@
+E:\programozás\Adatb-zis\Adatb_zis\Adatb_zis\bin\Debug\Adatb_zis.exe.config
+E:\programozás\Adatb-zis\Adatb_zis\Adatb_zis\bin\Debug\Adatb_zis.exe
+E:\programozás\Adatb-zis\Adatb_zis\Adatb_zis\bin\Debug\Adatb_zis.pdb
+E:\programozás\Adatb-zis\Adatb_zis\Adatb_zis\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\programozás\Adatb-zis\Adatb_zis\Adatb_zis\obj\Debug\Adatb_zis.csprojAssemblyReference.cache
+E:\programozás\Adatb-zis\Adatb_zis\Adatb_zis\obj\Debug\Adatb_zis.Form1.resources
+E:\programozás\Adatb-zis\Adatb_zis\Adatb_zis\obj\Debug\Adatb_zis.Properties.Resources.resources
+E:\programozás\Adatb-zis\Adatb_zis\Adatb_zis\obj\Debug\Adatb_zis.csproj.GenerateResource.cache
+E:\programozás\Adatb-zis\Adatb_zis\Adatb_zis\obj\Debug\Adatb_zis.csproj.CoreCompileInputs.cache
+E:\programozás\Adatb-zis\Adatb_zis\Adatb_zis\obj\Debug\Adatb_zis.csproj.CopyComplete
+E:\programozás\Adatb-zis\Adatb_zis\Adatb_zis\obj\Debug\Adatb_zis.exe
+E:\programozás\Adatb-zis\Adatb_zis\Adatb_zis\obj\Debug\Adatb_zis.pdb
